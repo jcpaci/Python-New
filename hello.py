@@ -1,16 +1,15 @@
-def multiply(a,b)
-	print "I'm multiplying two numbers"
-	return a * b
+def multiply(a,b):
+	return a*b
 
-def add(a,b)
+def add(a,b):
 	print "I'm adding two numbers"
 	return a + b
 
-def subtract(a,b)
+def subtract(a,b):
 	print "I'm subtracting two numbers"
 	return a - b
 
-def divide(a,b)
+def divide(a,b):
 	print "I'm dividing b by a"
 	return a / b
 
